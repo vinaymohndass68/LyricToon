@@ -1,0 +1,5 @@
+{
+  "name": "LyricToon",
+  "description": "Visualize your favorite songs by turning lyrics into a storyboard of cartoons using Gemini AI.",
+  "requestFramePermissions": []
+}
